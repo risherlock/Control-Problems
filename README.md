@@ -17,13 +17,13 @@ This repository tracks the state of open problems in mathematical systems and co
 8. Open problems in $l_{1}$ optimal control
 9. Efficient neural network learning
 10. Mechanical feedback control systems
-11. Three problems on the decidability and complexity of stability
-12. Simultaneous stabilization of linear systems and interpolation with rational functions
+11. [Three problems on the decidability and complexity of stability](v1p11.md)
+12. [Simultaneous stabilization of linear systems and interpolation with rational functions](v1p12.md)
 13. Forbidden state control synthesis for timed Petri net models
 14. On matrix mortality in low dimensions
 15. Entropy and random feedback
-16. A stabilization problem
-17. Spectral factorization of a spectral density with arbitrary delays
+16. [A stabilization problem](v1p16.md)
+17. [Spectral factorization of a spectral density with arbitrary delays](v1p17.md)
 18. Lyapunov exponents and robust stabilization
 19. Regular spectral factorizations
 20. Convergence of an algorithm for Riemannian SVD
@@ -36,9 +36,9 @@ This repository tracks the state of open problems in mathematical systems and co
 27. Monotonicity of performance with respect to its specification in $H^{\infty}$ control
 28. Stable estimates in equation error identification: An open problem
 29. Elimination of latent variables in real differential algebraic systems
-30. How conservative is the circle criterion?
+30. [How conservative is the circle criterion?](v1p30.md)
 31. On chaotic observer design
-32. The minimal realization problem in the max-plus algebra
+32. [The minimal realization problem in the max-plus algebra](v1p32.md)
 33. Input design for worst-case identification
 34. Max-plus-times linear systems
 35. Closed-loop identification and self-tuning
@@ -49,16 +49,15 @@ This repository tracks the state of open problems in mathematical systems and co
 40. Control-Lyapunov functions
 41. Spectral Nevanlinna-Pick Interpolation
 42. Phase-sensitive structured singular value
-43. Conservatism of the standard upper bound test: Is $\text{sup}(\mu/\bar{\mu})$ finite? Is it bounded by 2?
+43. [Conservatism of the standard upper bound test: Is $\text{sup}(\mu/\bar{\mu})$ finite? Is it bounded by 2?](v1p43.md)
 44. When does the algebraic Riccati equation have a negative semi-definite solution?
 45. Representing a nonlinear input-output differential equation as an input-state-output system
 46. Shift policies in QR-like algorithms and feedback control of self-similar flows
 47. Equivalences of discrete-event systems and of hybrid systems
 48. Covering numbers for input-output maps realizable by neural networks
-49. A powerful generalization of the Carleson measure theo-
-rem?
+49. [A powerful generalization of the Carleson measure theorem?](v1p49.md)
 50. Lyapunov theory for high order differential systems
-51. Performance lower bound for a sampled-data signal reconstruction
+51. [Performance lower bound for a sampled-data signal reconstruction](v1p51.md)
 52. Coprimeness of factorizations over a ring of distributions
 53. Where are the zeros located?
 
